@@ -1,2 +1,4 @@
 # ndcn-demo
-Demoing Github at NDCN office hours
+Demo of RStudio/Github at NDCN office hours
+
+Adding words
